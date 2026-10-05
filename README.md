@@ -19,8 +19,8 @@ I'm building seven projects in a deliberate order, each adding a new layer of co
 | # | Project | What it demonstrates | Status |
 |---|---------|----------------------|--------|
 | 1 | [Static Website with Global CDN](https://github.com/billy604/static-site-cdn-aws) | S3, CloudFront, ACM, Route 53, Terraform, keyless CI/CD | ✅ Built |
-| 2 | [Three-Tier App on VMs](https://github.com/billy604/aws-three-tier-vm-app) | VPC design, ALB, Auto Scaling, RDS, layered security | ✅ Built |
-| 3 | [Automated Backup & Monitoring](https://github.com/billy604/aws-backup-monitoring-system) | Disaster recovery, CloudWatch, alerting, runbooks | ✅ Built |
+| 2 | [Three-Tier App on VMs](https://github.com/billy604/three-tier-vpc-architecture-aws) | VPC design, ALB, Auto Scaling, RDS, layered security | ✅ Built |
+| 3 | [Automated Backup & Monitoring](https://github.com/billy604/automated-backup-monitoring-aws) | Disaster recovery, CloudWatch, alerting, runbooks | ✅ Built |
 | 4 | [Serverless REST API + CI/CD](https://github.com/billy604/serverless-rest-api-cicd) | API Gateway, Lambda, DynamoDB, tested pipelines | ✅ Built |
 | 5 | [Event-Driven Data Pipeline](https://github.com/billy604/event-driven-data-pipeline) | S3, EventBridge, SQS, Step Functions, Athena | ✅ Built |
 | 6 | [Multi-Environment IaC Platform](https://github.com/billy604/terraform-multi-env-platform) | Terraform modules, GitOps, policy-as-code, drift detection | 🚧 In progress |
