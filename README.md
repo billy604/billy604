@@ -8,6 +8,7 @@ I'm a tech professional transitioning into Cloud Engineering, focused on buildin
 - 🛠️ Exploring automation, CI/CD pipelines, and cloud-native tools
 - 💡 Believer in strong, deep foundational problem-solving skills over quick shortcuts
 - 🎯 Long-term goal: building robust cloud solutions and giving back to the tech community
+
 *With ALL HONESTY, all of these projects are made with cost saving in mind because I really can't afford some services.
 ---
 
